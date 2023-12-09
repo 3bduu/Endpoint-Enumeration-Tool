@@ -1,6 +1,6 @@
 # Simple Endpoint Checker
 
-This Python script checks the availability of different endpoints on a specified URL/IP target.
+This Python script checks the availability of different endpoints on a specified URL target.
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ This Python script checks the availability of different endpoints on a specified
    ```bash
    python3 endenum.py
    
-  Follow the on-screen instructions to input the target URL/IP and observe the results.
+  Follow the on-screen instructions to input the target URL and observe the results.
   
 # Features
 
